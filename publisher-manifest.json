@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b9dd161bbcdc45daade68293",
+  "owner": "x7wmu5dqa",
+  "repo": "page-07404bfaa10ac000d0488240",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "07404bfaa10ac000d0488240",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7eb2ca81984f607562673629be17eaa4d53ef71bb74fb810fb025f8f0b38fd3c",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转 提供优质VPN加速服务，多款套餐供选择，支持多设备在线，解锁流媒体。立即下载客户端访问官网。",
+          "AI_DESCRIPTION": "GPT中转 提供优质VPN加速服务，多款套餐供选择，支持多设备在线，解锁流媒体。立即下载客户端访问官网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            background-color: #f8f8f8;\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 1000px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            font-size: 2.8em;\n            text-align: center;\n            padding: 80px 20px 40px;\n            color: #ff6b6b;\n        }\n        h2 {\n            font-size: 2em;\n            color: #ff6b6b;\n            margin-top: 40px;\n            border-bottom: 2px solid #ff6b6b;\n            padding-bottom: 10px;\n        }\n        .plan {\n            background-color: #fff;\n            border: 2px solid #ff6b6b;\n            border-radius: 8px;\n            padding: 20px;\n            margin: 20px 0;\n            box-shadow: 0 4px 8px rgba(0,0,0,0.1);\n        }\n        .plan.featured {\n            border-color: #ff6b6b;\n            position: relative;\n        }\n        .plan.featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: -15px;\n            right: 20px;\n            background-color: #ff6b6b;\n            color: white;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.9em;\n        }\n        .feature-list {\n            list-style: none;\n            padding: 0;\n        }\n        .feature-list li {\n            padding: 8px 0;\n            display: flex;\n            align-items: center;\n        }\n        .feature-list li::before {\n            content: \"✓\";\n            color: #ff6b6b;\n            margin-right: 10px;\n        }\n        details {\n            background-color: #fff;\n            margin: 15px 0;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            font-weight: bold;\n            padding: 15px;\n            background-color: #f8f8f8;\n            cursor: pointer;\n        }\n        summary:hover {\n            background-color: #ff6b6b;\n            color: white;\n        }\n        footer {\n            background-color: #ff6b6b;\n            color: white;\n            text-align: center;\n            padding: 20px;\n            margin-top: 40px;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2.2em;\n                padding: 60px 10px 30px;\n            }\n            main {\n                padding: 15px;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>GPT中转</h1>\n        <p>专业的网络加速平台，助力您畅享高速稳定连接</p>\n        <h2>品牌简介</h2>\n        <p>GPT中转 是一款先进的VPN加速服务，旨在为用户提供高品质的网络中转与加速体验。无论您是日常上网、观看视频，还是进行在线游戏，都能通过GPT中转实现极速网络体验。</p>\n        <h2>使用场景</h2>\n        <p>• 个人用户：日常上网、观看视频、在线教育<br>• 企业用户：多设备在线、远程协作、数据传输加速<br>• 游戏爱好者：IPLC专线优化游戏延迟</p>\n        <h2>操作说明</h2>\n        <ol>\n            <li>访问官网<a href=\"#download\">下载客户端</a></li>\n            <li>选择适合的套餐进行订阅</li>\n            <li>连接节点，开始享受加速</li>\n        </ol>\n        <h2>选择套餐</h2>\n        <div class=\"plan\">\n            <h3>基础版</h3>\n            <p>¥15/月（按年付仅需 ¥150/年）</p>\n            <ul class=\"feature-list\">\n                <li>每月 100GB 极速流量</li>\n                <li>支持 3 台设备同时在线</li>\n                <li>解锁基础流媒体</li>\n                <li>普通线路节点池</li>\n            </ul>\n        </div>\n        <div class=\"plan featured\">\n            <h3>旗舰版</h3>\n            <p>¥35/月（按年付仅需 ¥350/年）</p>\n            <ul class=\"feature-list\">\n                <li>每月 300GB 极速流量</li>\n                <li>支持 5 台设备同时在线</li>\n                <li>全节点原生流媒体解锁</li>\n                <li>IPLC 专线游戏加速优化</li>\n                <li>7x24 优先工单支持</li>\n            </ul>\n        </div>\n        <div class=\"plan\">\n            <h3>团队版</h3>\n            <p>¥85/月（按年付仅需 ¥850/年）</p>\n            <ul class=\"feature-list\">\n                <li>每月 1000GB 极速流量</li>\n                <li>支持 20 台设备同时在线</li>\n                <li>VIP 专属高带宽节点</li>\n                <li>支持企业定制路由</li>\n                <li>专属客户经理服务</li>\n            </ul>\n        </div>\n        <h2>客户端选择</h2>\n        <p>根据您的操作系统，选择合适的客户端进行下载：</p>\n        <p><strong>Windows 用户：</strong> 访问官网下载 Windows 客户端</p>\n        <p><strong>Mac 用户：</strong> 访问官网下载 Mac 客户端</p>\n        <p><strong>移动设备：</strong> 访问官网下载 Android/iOS 客户端</p>\n        <a id=\"download\" href=\"#\">前往官网下载客户端</a>\n        <h2>常见问题</h2>\n        <details>\n            <summary>GPT中转 支持哪些设备？</summary>\n            <p>GPT中转 支持 Windows、macOS、Android、iOS 等主流设备。</p>\n        </details>\n        <details>\n            <summary>不同套餐的流量和功能有何区别？</summary>\n            <p>基础版提供基础流量和普通节点，旗舰版支持更多流量和专线优化，团队版适合企业用户提供专属服务。</p>\n        </details>\n        <details>\n            <summary>GPT中转 是否支持流媒体解锁？</summary>\n            <p>旗舰版及以上套餐支持全节点原生流媒体解锁，基础版支持基础解锁。</p>\n        </details>\n        <details>\n            <summary>如何获取客户支持？</summary>\n            <p>旗舰版及团队版提供 7x24 优先工单支持，团队版还有专属客户经理。</p>\n        </details>\n        <details>\n            <summary>如何选择合适的套餐？</summary>\n            <p>根据您的设备数量、流量需求和使用场景选择：个人用户选基础版，游戏玩家选旗舰版，企业用户选团队版。</p>\n        </details>\n        <section>\n            <h2>广告</h2>\n            <p>广告位</p>\n        </section>\n        <footer>\n            <p>© 2024 GPT中转 所有权利保留</p>\n            <p>友情链接：<a href=\"#\">官网</a></p>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "397e3415a4fb2b3c325bf115791432d6d387151890a04c06766c0574a84c7a48",
+          "seo": {
+            "title": "GPT中转 VPN 加速器 - 客户端下载",
+            "keywords": "GPT中转,VPN,加速器,客户端下载,流量包,机场订阅",
+            "description": "GPT中转 提供优质VPN加速服务，多款套餐供选择，支持多设备在线，解锁流媒体。立即下载客户端访问官网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cwsgyhh.cn",
+    "host": "p-0a6b76f9bc.cwsgyhh.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "7aecb08b9d4b91c67958abfb128a10efddc9d1efe3cfbd5b58edc63c3f402ed3",
+    "sitemap.xml": "e6782ab5bc9af7ddb0e8efd0607aff3886fc0da7ea981f8f60f36b060cc6b551",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8e57d8f6798b9f174ec463f54bd4475805a456862f66c02bf99ed7247a46463c",
+    "robots.txt": "637c839fcd55f7548fe670bec093e65c3dbb37d894ea108b5f4d48b963ed0a4c",
+    "d6e3c29bdcaef276a1988419759b0307.txt": "4c75e2d56f8b8dbe22894210718abff861b10c01039d0dd64467875956b9fe5c"
+  },
+  "revision": "aed2c4e1c3af9af5fdaac6c3ff77473bf29ebbc44ae9ebf682c57f1f2dee21c7"
+}
